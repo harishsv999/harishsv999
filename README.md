@@ -2,7 +2,7 @@
 
 ### Senior Mobile Application Developer | Android Engineer | Kotlin, React, and React Native Enthusiast
 
-Welcome to my GitHub profile! I have over **6.7 years of experience** in developing mobile and web applications across various domains such as **banking, video streaming, finance management,** and more. I'm passionate about solving complex problems, delivering high-quality software, and learning the latest technologies to enhance app performance and user experiences.
+Welcome to my GitHub profile! I have over **7 years of experience** in developing mobile and web applications across various domains such as **banking, video streaming, finance management,** and more. I'm passionate about solving complex problems, delivering high-quality software, and learning the latest technologies to enhance app performance and user experiences.
 
 ## 🔭 What I’m currently working on:
 - Designing **Android apps** with a focus on **user identity, accounts, cards, and transaction functionality**.
